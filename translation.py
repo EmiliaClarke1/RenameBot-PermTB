@@ -15,7 +15,7 @@ class Translation(object):
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @berlinhere"
     DOWNLOAD_START = "Dᴏᴡɴʟᴏᴀᴅɪɴɢ...."
-    UPLOAD_START = "Hurray... Completed Downloading(;ŏ﹏ŏ)"
+    UPLOAD_START = "ompleted Downloading"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = " "
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
