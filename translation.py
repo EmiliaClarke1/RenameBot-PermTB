@@ -28,8 +28,14 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """It's not that complicated😅
+    HELP_USER = """────  𝐇ᴏᴡ 𝐓ᴏ 𝐔ꜱᴇ 𝐌ᴇ  ─────  
+
+☆ 𝐒ᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ
+
+☆ 𝐒ᴇɴᴅ ᴀ ᴘʜᴏᴛᴏ ᴛᴏ ᴍᴀᴋᴇ ɪᴛ ᴀꜱ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ
+
+☆ 𝐑ᴇᴘʟʏ ᴛᴏ ᴛʜᴀᴛ ꜰɪʟᴇ ᴡɪᴛʜ /𝐫𝐞𝐧𝐚𝐦𝐞 ɴᴇᴡ ꜰɪʟᴇ ɴᴀᴍᴇ.ᴇ𝐱ᴛɴꜱɪᴏɴ</b>"""
     
-1. Send me any Telegram File.
-2. Reply to that message with /rename NEWNAME.EXTENSION"""
+
+
 
